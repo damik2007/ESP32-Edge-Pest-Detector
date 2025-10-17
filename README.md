@@ -23,5 +23,10 @@ To develop a low-cost, standalone IoT device capable of automatically detecting 
 ## Outcome
 Successfully demonstrated accurate, real-time pest detection directly on the ESP32-CAM. However, due to hardware memory constraints, the project could not fulfill the complete requirement of network connectivity, leading to the development of Project 2 (Cloud AI approach).
 
-**(Optional: Add your photo of the ESP32-CAM setup here)**
-**(Optional: Add the link to your demo video for this project here)**
+
+
+Add the link to your demo video for this project here:
+https://github.com/user-attachments/assets/5515b95b-97ba-42ba-9d55-c837fd6fe6fb
+
+Add your photo of the ESP32-CAM setup here:
+![PHOTO-2025-10-17-12-15-56](https://github.com/user-attachments/assets/a3683c20-3636-411d-a587-2210937dd181)
